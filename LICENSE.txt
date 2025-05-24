@@ -1,0 +1,17 @@
+This source code is the intellectual property of Livinkumar S (Developer) and is provided exclusively to Tharick Rahman (Client) as part of a paid development project.
+
+📄 Usage Terms:
+The code is licensed for use only by the Client for the agreed project or website.
+
+Redistribution, resale, sublicensing, or sharing of any part of this codebase to third parties is strictly prohibited.
+
+The Client may not claim authorship of the code or remove any internal attributions or developer comments inserted by the Developer.
+
+Any unauthorized use or distribution will result in a penalty or legal action, including termination of support.
+
+💡 Referral Bonus:
+For every successful referral who becomes a client, you will receive an instant 5% cash reward based on the new project’s value. Simply have them mention your name.
+
+🔒 Confidentiality:
+This code may include hidden digital markers to verify originality and track misuse.
+
